@@ -1,0 +1,41 @@
+[Desktop]
+
+Desktop_4:3=Vector2( 1024, 768 )
+Desktop_FWXGA=Vector2( 1366, 768 )
+Desktop_HD=Vector2( 1280, 720 )
+Desktop_FHD=Vector2( 1920, 1080 )
+
+[Android]
+
+FWVGA_Landscape=Vector2( 854, 480 )
+FWVGA_Portrait=Vector2( 480, 854 )
+HVGA_Landscape=Vector2( 480, 320 )
+HVGA_Portrait=Vector2( 320, 480 )
+QHD=Vector2( 480, 270 )
+WSVGA_Landscape=Vector2( 1024, 600 )
+WSVGA_Portrait=Vector2( 600, 1024 )
+WVGA_Landscape=Vector2( 800, 480 )
+WVGA_Portrait=Vector2( 480, 800 )
+WXGA_Landscape=Vector2( 1280, 800 )
+WXGA_Portrait=Vector2( 800, 1280 )
+A6_Landscape=Vector2( 1480, 720 )
+A6_Portrait=Vector2( 720, 1480 )
+
+[iPhone]
+
+iPhone_4/4S_Landscape=Vector2( 960, 640 )
+iPhone_4/4S_Portrait=Vector2( 640, 960 )
+iPhone_5_Landscape=Vector2( 1136, 640 )
+iPhone_5_Portrait=Vector2( 640, 1136 )
+
+[iPad]
+
+iPad_1/2/Mini_Landscape=Vector2( 1024, 768 )
+iPad_1/2/Mini_Portrait=Vector2( 768, 1024 )
+iPad_3/4_Landscape=Vector2( 2048, 1536 )
+iPad_3/4_Portrait=Vector2( 1536, 2048 )
+
+[Other]
+
+Square=Vector2( 400, 400 )
+Square_200x200=Vector2( 200, 200 )
